@@ -9,7 +9,7 @@
 # 3) Highstate will execute all states
 # --> qubesctl state.highstate
 #
-# 4) Highstate test mode only.  Note note all states seem to conform to test
+# 4) Highstate test mode only.  Note not all states seem to conform to test
 #    mode and may apply state anyway.  Needs more testing to confirm or not!
 # --> qubesctl state.highstate test=True
 
