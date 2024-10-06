@@ -19,7 +19,7 @@
 #   qubesctl state.sls qubes.user-dirs
 #
 # Note:
-#   Using using custom ID's to prevent possible conflicts
+#   Using custom ID's to prevent possible conflicts
 ##
 
 directory_srv_user_salt:
